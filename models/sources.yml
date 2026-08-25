@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: pinba
+    database: WUDEYOU
+    schema: PUBLIC
+    tables:
+      - name: orders
+      - name: order_items
